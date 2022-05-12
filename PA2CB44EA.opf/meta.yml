@@ -171,3 +171,8 @@ source_metadata:
       parent: Final Words
 created_at: '2022-03-01T04:58:17.003885'
 last_modified_at: '2022-03-01T04:58:17.003888'
+statistics:
+  total_words: 41410
+  total_non_words: 3485
+quality:
+  non_words_ratio: 0.08
